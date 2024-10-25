@@ -1,0 +1,9 @@
+easyocr==1.7.1
+keyboard==0.13.5
+mss==9.0.2
+numpy==2.1.2
+Pillow==11.0.0
+pyspellchecker==0.8.1
+screeninfo==0.8.1
+spellchecker==0.4
+torch==2.4.1+cu118
